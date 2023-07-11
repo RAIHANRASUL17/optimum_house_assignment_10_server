@@ -1,0 +1,95 @@
+[
+  {
+    "id": "1",
+    "name": "Mr.Zhu Leng",
+    "chefImg": "https://i.ibb.co/S3MjWy8/chef-1.jpg",
+    "experience": "5 years",
+    "recipeName": "Trifle bowl coronation salad",
+    "recipeInfo": "Coronation recipes",
+    "recipeImg": "https://i.ibb.co/BZ7z1r1/food-1.jpg",
+    "numOfRecipe": "10 Items",
+    "description": "Transform coronation chicken by adding mango chutney, creamy tahini and nigella seeds. Use it in this colourful layered salad or as a sandwich filling",
+    "Ingredient": "1:Olive oil, 2:Gem lettuces, 3:Carrots, 4: Lemon",
+    "method": ["1:First, make the coronation chicken.", "2:Make the minty yogurt chickpeas on the day you want to assemble the salad.", "3:Toss the courgette and asparagus ribbons, olive oil, lemon juice and a pinch of salt together in a bowl.", "4: put some salt"],
+    "numLikes": 400,
+    "rating": "5"
+  },
+  {
+    "id": "2",
+    "name": "Mr.Fu Difeng",
+    "chefImg": "https://i.ibb.co/T14qWbc/chef-2.jpg",
+    "experience": "10 years",
+    "recipeName": "Beef Noodles",
+    "recipeInfo": "The best spaghetti bolognese recipe",
+    "recipeImg": "https://i.ibb.co/sm5P5Ls/food-2.jpg",
+    "numOfRecipe": "15 Items",
+    "description": "Our best ever spaghetti bolognese is super easy and a true Italian classic with a meaty, chilli sauce. This recipe comes courtesy of BBC Good Food user Andrew Balmer",
+    "Ingredient": "1: medium onions, 2:celery sticks, 3: beef mince, 4:dried oregano",
+    "method": ["1:Put a large saucepan on a medium heat and add 1 tbsp olive oil.", "2:Add 4 finely chopped bacon rashers and fry for 10 mins until golden and crisp.", "3:Increase the heat to medium-high, add 500g beef mince"],
+    "numLikes": 900,
+    "rating": "9"
+  },
+  {
+    "id": "3",
+    "name": "Mr.Zhang Ming",
+    "chefImg": "https://i.ibb.co/hHY0wHf/chef-3.jpg",
+    "experience": "12 years",
+    "recipeName": "Chicken Traybake",
+    "recipeInfo": "Sticky Chinese five-spice",
+    "recipeImg": "https://i.ibb.co/QM4Y8nW/food-3.jpg",
+    "numOfRecipe": "5 Items",
+    "description": "Flavoured with honey, hoisin sauce and Chinese five-spice, this one-pan chicken dish makes a cheap and easy midweek family meal",
+    "Ingredient": "1:  chicken, 2:celery sticks, 3: ginger, 4:sesame oil,",
+    "method": ["1:Pour over the chicken and toss to coat.", "2:Roast, skin-side up, for 35 mins, basting at least once.", "3:Stir through the cashew nuts and sprinkle the spring onions over the chicken.", "4: put some pineapple"],
+    "numLikes": 600,
+    "rating": "10"
+  },
+  {
+    "id": "4",
+    "name": "Mr.Han Suer",
+    "chefImg": "https://i.ibb.co/RDGrbS6/chef-4.jpg",
+    "experience": "20 years",
+    "recipeName": "Sticky Rice Chicken",
+    "recipeInfo": "Sticky Chinese chicken wings",
+    "recipeImg": "https://i.ibb.co/Z1j5kbM/food-4.jpg",
+    "numOfRecipe": "17 Items",
+    "description": "Chinese style chicken wings with a delicious twist, made using just 5 ingredients. They make a tasty lunch or make a batch to share with friends",
+    "Ingredient": "1:large chicken wings, 2:reduced salt soy sauce, 3: brown sugar, 4:vinegar,",
+    "method": ["1: In a roasting tray, toss the wings with the soy sauce.", "2:Roast, skin-side up, for 35 mins, basting at least once.", "3:Roast for 40 mins, turning occasionally until lacquered.", "4: put sugar a little bit"],
+    "numLikes": 700,
+    "rating": "12"
+  },
+  {
+    "id": "5",
+    "name": "Mr.Jana Tong",
+    "chefImg": "https://i.ibb.co/HXxCrpy/chef-5.jpg",
+    "experience": "25 years",
+    "recipeName": "Lighter Chinese chilli beef",
+    "recipeInfo": "chilli beef",
+    "recipeImg": "https://i.ibb.co/gFcYRXH/food-5.jpg",
+    "numOfRecipe": "17 Items",
+    "description": "Don't reach for the takeaway menu, try this beef stir-fry recipe instead. It's just as tasty as your favourite Chinese and healthier too.",
+    "Ingredient": "1:lean beef, 2:red pepper, 3: spring onions, 4:dark soy sauce",
+    "method": ["1: Put the meat in the freezer 25-30 mins with the soy sauce.", "2:Meanwhile, remove the core and seeds from the pepper and cut it.", "3:Steam the broccoli spears for 11⁄2 mins."],
+    "numLikes": 1000,
+    "rating": "30"
+  },
+  {
+    "id": "6",
+    "name": "Mrs.Arban Zhong",
+    "chefImg": "https://i.ibb.co/JyqmCG3/chef-6.jpg",
+    "experience": "35 years",
+    "recipeName": "Chinese Hot Pot Frank",
+    "recipeInfo": "Variety Meat and Vegetables",
+    "recipeImg": "https://i.ibb.co/51GQNGV/food-6.jpg",
+    "numOfRecipe": "15 Items",
+    "description": "Make this beef stew when the nights draw in. With aubergine and Chinese spices, the flavours are warming and it's slow-cooked for deliciously tender meat Nutrition: Per serving.",
+    "Ingredient": "1:star anise, 2:cinnamon stick, 3:red chillies,, 4:kaffir lime leaves",
+    "method": ["1:Heat a large casserole dish, toast the anise and cinnamon until fragrant.", "2:Add the spices and meat back in, skim off any fat that comes to the surface.", "3:Scatter over the coriander and sliced red chilli, then serve with rice.", "4:put apple slicing a little"],
+    "numLikes": 1200,
+    "rating": "150"
+  }
+
+
+  
+]

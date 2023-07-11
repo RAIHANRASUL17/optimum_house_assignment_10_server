@@ -1,0 +1,39 @@
+[
+    {
+      "id": "101",
+      "name": "Standard Single Room",
+      "remote": "10 days",
+      "image": "https://i.ibb.co/qFV29G5/Single.png",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntur fuga beatae vero quaerat cumque facere sequi praesentium iste laborum? Placeat?",
+      "bedQuantity": 1,
+      "personQuantity": 1,
+      "price": 100,
+      "location": "Dhaka, Bangladesh",
+      "quantity": 0
+    },
+    {
+      "id": "102",
+      "name": "Standard Double Room",
+      "remote": "1 month",
+      "image": "https://i.ibb.co/Xs7k4Qj/Double.png",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntur fuga beatae vero quaerat cumque facere sequi praesentium iste laborum? Placeat?",
+      "bedQuantity": 1,
+      "personQuantity": 2,
+      "price": 150,
+      "location": "Dhaka, Bangladesh",
+      "quantity": 0
+    },
+    {
+      "id": "103",
+      "name": "Family Room",
+      "remote": "1 year",
+      "image": "https://i.ibb.co/dpQ42mh/Family.png",
+      "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequuntur fuga beatae vero quaerat cumque facere sequi praesentium iste laborum? Placeat?",
+      "bedQuantity": 4,
+      "personQuantity": 10,
+      "price": 300,
+      "location": "Dhaka, Bangladesh",
+      "quantity": 0
+    }
+  ]
+  
