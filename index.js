@@ -8,7 +8,7 @@ app.use(cors())
 app.get('/', (req, res) => {
   res.send('Assignment 10 is Running')
 })
-// to get restaurant data 
+// to get restaurant data
 const restaurant= require('./data/restaurant.json')
 app.get('/restaurant', (req, res)=>{
     res.send(restaurant)
